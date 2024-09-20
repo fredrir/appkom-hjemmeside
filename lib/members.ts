@@ -63,11 +63,17 @@ export const members: memberType[] = [
   {
     name: "Dina Marie Stensrud",
     href: "/medlem/Dina-Marie-Stensrud",
+    imageUri:"/Users/dinamariestenrud/Documents/appkom/home/public/medlemmer/dina-skater.jpg",
+    about:"Jobber på narvesen",
 
     rolesByPeriod: {
       "2023 - 2024": "Medlem",
       "2024 - 2025": "Medlem",
     },
+    email:"dina.marie.stenrud@online.ntnu.no",
+    phone:"90263930",
+    github:"https://github.com/DinaMarieStenrud",
+    linkedin:"https://www.linkedin.com/in/dina-marie-stenrud-719837305/"
   },
   {
     name: "Emily Malcomsen",
